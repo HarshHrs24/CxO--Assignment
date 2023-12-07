@@ -1,4 +1,4 @@
-# CxO--Assignment
+# CxO_Assignment
 
 ## Problem Statement
 Design a Node.js system to efficiently allocate colored balls into buckets based on their volume, optimizing for maximum bucket utilization and minimum bucket usage.
