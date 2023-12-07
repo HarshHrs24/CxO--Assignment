@@ -33,6 +33,5 @@ The solution for efficiently placing colored balls into buckets optimizes space 
 
 
 ## Contact Information
-Name - [Harsh Soni](sonih8085@gmail.![Uploading Screenshot 2023-12-07 at 11.08.35 PM.png…]()
-com) - sonih8085@gmail.com
+Name - [Harsh Soni](sonih8085@gmail.com) - sonih8085@gmail.com
 
